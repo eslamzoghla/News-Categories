@@ -1,9 +1,16 @@
-# News-Categories
-News and categories screens with flutter
+# new_category
 
-## Screens
+A new Flutter project.
 
-![image](https://github.com/eslamzoghla/News-Categories/assets/95759229/cbaeb2b5-033e-4f00-8317-6a3f6a02be51)
-![image](https://github.com/eslamzoghla/News-Categories/assets/95759229/8aed265b-4820-4ca3-b038-d13bb20b5733)
-![image](https://github.com/eslamzoghla/News-Categories/assets/95759229/0526b1e6-a890-40e9-b27f-485366df858c)
-![image](https://github.com/eslamzoghla/News-Categories/assets/95759229/cea64f65-a975-47c7-9114-1ed105210c60)
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
